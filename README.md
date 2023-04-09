@@ -2,4 +2,4 @@
 AI-Assignment2
 
 
-Import the agents and then run main.py
+Import the agents and then run .ipynb ( Python Executable) files
